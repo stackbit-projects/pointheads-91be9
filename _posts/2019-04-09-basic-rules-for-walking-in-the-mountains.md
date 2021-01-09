@@ -1,6 +1,9 @@
 ---
 title: Introducing Point Heads
-excerpt: 'What a wild year it was. After months of reading blogs,'
+excerpt: >-
+  What a wild year it was. After months of reading blogs, listening to podcasts,
+  building spreadsheets and making plans, we decided to dive into the "points
+  and miles" game.
 date: '2020-01-01'
 content_img_path: images/1.jpg
 layout: post
