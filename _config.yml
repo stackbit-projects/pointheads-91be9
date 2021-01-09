@@ -8,7 +8,7 @@ palette: yellow
 header:
   title: Fjord
   tagline: Minimal and clean blog theme
-  logo_img: images/logo.svg
+  logo_img: images/Png logo color.png
   logo_img_alt: Fjord Logo
   has_nav: true
   nav_links:
