@@ -51,13 +51,6 @@ header:
       style: icon
       icon_class: dev
       new_window: true
-    - label: lorem-ipsum
-      url: lorem-ipsum
-      style: link
-      icon_class: dev
-      new_window: false
-      no_follow: false
-      type: action
   background_img: images/Main Banner websitejpg.jpg
 footer:
   content: ''
