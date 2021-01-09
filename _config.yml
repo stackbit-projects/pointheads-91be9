@@ -18,7 +18,7 @@ header:
     - label: About
       url: /about
       style: link
-    - label: Blog
+    - label: Podcast
       url: /style-guide
       style: link
     - label: Contact
